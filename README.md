@@ -9,5 +9,7 @@ This repository will contain assignments and other self study material pertainin
 - [ ] Applied Social Network Analysis in Python
 
 
+Currently consists of the second course, namely Applied Plotting, Charting & Data Representation in Python.
+
 
 The official page: [https://www.coursera.org/specializations/data-science-python](https://www.coursera.org/specializations/data-science-python).
