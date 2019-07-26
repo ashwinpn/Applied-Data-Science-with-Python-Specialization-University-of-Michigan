@@ -1,2 +1,2 @@
-# Applied-Data-Science-with-Python-Specialization-University-of-Michigan
-Applied Data Science with Python Specialization: University of Michigan
+# Applied-Plotting-Charting-and-Data-Representation-in-Python
+Coursera course by University of Michigan
